@@ -54,5 +54,8 @@
 * Using rdflib with React Componentes
 
     * TBD
+    
+* Query LDflex and other approaches
 
+* TBD
 
