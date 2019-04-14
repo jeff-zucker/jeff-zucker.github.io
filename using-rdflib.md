@@ -14,8 +14,8 @@
 * CRUD with the in-memory store
 
     * instantiating a store
-    * creating statements -store.add)
-    * reading statements - store.each)
+    * creating statements -store.add
+    * reading statements - store.each
     * updating statements
     * deleting statements - store.remove
 
