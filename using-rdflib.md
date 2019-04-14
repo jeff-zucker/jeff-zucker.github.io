@@ -1,4 +1,4 @@
-# Using the Semantic Web in Javascript
+# Working with the Semantic Web in Javascript
 
 ## a setp-by-step guide to using rdflib.js
 
